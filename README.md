@@ -1,5 +1,5 @@
-## Hi there 👋
-
+# Hi this is Sindhu Mekala
+### I am a computer science student. I am a beginner at coding
 <!--
 **sindhu-mekala/sindhu-mekala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
